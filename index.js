@@ -43,6 +43,6 @@ app.listen(port,()=>{
         console.log("unable to connect to database")
     }
 })
-dotenv.config();
+
 
 
